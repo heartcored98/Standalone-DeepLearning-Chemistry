@@ -20,7 +20,7 @@
 
 ## Contents  
 
-#### [Session 01] ML Basic (1 hr)  
+#### [Session 01] ML and Pytorch Basic (1 hr)  
 - Category of ML Problems 
 - Hypothesis / Loss(Cost) Function / Optimization  
 - Model Capacity / Over(Under)-fitting / Regularization  
