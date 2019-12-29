@@ -7,13 +7,13 @@
 **만약 저희 세미나가 마음에 드셨다면 우측 상단에 있는 :star2:Star를 박아주세요! 미리 감사드리겠습니다!**
 
 
-[10:00~10:40] 딥러닝 기본기 (hypothesis, loss function, back-propagation update)  
-[10:50~12:00] pytorch 기본 사용법 (data loader, nn.Module, loss function, back propagation, gpu training)  
-[13:00~13:50] fingerprint - MLP (fingerprint input, MLP, toxicity binary prediction)  
-[14:00~14:50] smiles - CNN (encode smile with one-hot encoding, CNN, toxicity binary prediction)  
-[15:00~15:50] molecular graph - GCN (encode molecule with graph, GCN, toxicty binary prediction)  
-[16:00~16:50] experiment management + hyperparameter tuning with Tensorboard  
-[17:30~18:00] Wrap Up and Q&A  
+[10:00-10:40] 딥러닝 기본기 (hypothesis, loss function, back-propagation update)  
+[10:50-12:00] pytorch 기본 사용법 (data loader, nn.Module, loss function, back propagation, gpu training)  
+[13:00-13:50] fingerprint - MLP (fingerprint input, MLP, toxicity binary prediction)  
+[14:00-14:50] smiles - CNN (encode smile with one-hot encoding, CNN, toxicity binary prediction)  
+[15:0-15:50] molecular graph - GCN (encode molecule with graph, GCN, toxicty binary prediction)  
+[16:00-16:50] experiment management + hyperparameter tuning with Tensorboard  
+[17:30-18:00] Wrap Up and Q&A  
 
 
 ## Contents  
