@@ -44,15 +44,15 @@
 - MLP Model 
 - GPU Training  
 
-#### [Session 04] GNN with Graph Representation  (1 hr)   
+#### [Session 05] GNN with Graph Representation  (1 hr)   
 딥러닝 홀로서기 세미나 오리엔테이션, Machine Learning Basic과 Linear Regression에 대한 내용을 다뤘습니다.  
 
 
-#### [Session 05] Experiment Management and Hyperparameter Tuning with Tensorboard  (1 hr)  
+#### [Session 06] Experiment Management and Hyperparameter Tuning with Tensorboard  (1 hr)  
 딥러닝 홀로서기 세미나 오리엔테이션, Machine Learning Basic과 Linear Regression에 대한 내용을 다뤘습니다.  
 
 
-#### [Session 06] Few Pratcial Tips  (1 hr)  
+#### [Session 07] Few Pratcial Tips  (1 hr)  
 딥러닝 홀로서기 세미나 오리엔테이션, Machine Learning Basic과 Linear Regression에 대한 내용을 다뤘습니다.  
 
 
